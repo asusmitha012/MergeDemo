@@ -1,0 +1,6 @@
+n=thirsty
+if(n==thirsty)
+	print("Drink Water")
+	print("Drink Coke")
+else
+	print("Do your homework")
